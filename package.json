@@ -1,0 +1,41 @@
+{
+  "name": "grunt-jsfuck",
+  "version": "0.1.0",
+  "description": "The best Grunt plugin ever.",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Saunalol/grunt-jsfuck"
+  },
+  "bugs": "https://github.com/Saunalol/grunt-jsfuck/issues",
+  "author": {
+    "name": "cyberskunk",
+    "email": ""
+  },
+  "keywords": [
+    "gruntplugin jsfuck"
+  ],
+  "main": "Gruntfile.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.2.0",
+    "grunt-contrib-nodeunit": "~0.1.2",
+    "grunt-contrib-clean": "~0.4.0",
+    "grunt": "~0.4.0rc2",
+    "load-grunt-tasks": "~0.2.0",
+    "jshint-stylish": "~0.1.3"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {
+    "jsfuck": "~0.1.0"
+  }
+}
