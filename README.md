@@ -1,3 +1,4 @@
+[![NPM version](https://badge.fury.io/js/grunt-jsfuck.png)](http://badge.fury.io/js/grunt-jsfuck)
 # grunt-jsfuck
 
 > The best Grunt plugin ever.
