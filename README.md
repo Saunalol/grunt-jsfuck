@@ -1,4 +1,4 @@
-[![NPM version](https://badge.fury.io/js/grunt-jsfuck.png)](http://badge.fury.io/js/grunt-jsfuck) [![Build Status](https://travis-ci.org/Saunalol/grunt-jsfuck.png?branch=master)](https://travis-ci.org/Saunalol/grunt-jsfuck) [![Dependency Status](https://gemnasium.com/Saunalol/grunt-jsfuck.png)](https://gemnasium.com/Saunalol/grunt-jsfuck)
+[![NPM version](https://badge.fury.io/js/grunt-jsfuck.png)](http://badge.fury.io/js/grunt-jsfuck) [![Build Status](https://travis-ci.org/Saunalol/grunt-jsfuck.svg?branch=master)](https://travis-ci.org/Saunalol/grunt-jsfuck) [![Dependency Status](https://gemnasium.com/Saunalol/grunt-jsfuck.png)](https://gemnasium.com/Saunalol/grunt-jsfuck)
 
 # grunt-jsfuck
 
